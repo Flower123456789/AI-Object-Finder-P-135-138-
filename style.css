@@ -1,0 +1,20 @@
+
+.heading {
+    font-size: 18px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px royalblue;
+}
+
+
+.input{
+   font-size: 25px;
+   border-radius: 50px;
+}
+
+
+canvas {
+    border: 5px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px blueviolet;
+}
